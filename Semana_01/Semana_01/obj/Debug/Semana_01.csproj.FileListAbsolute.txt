@@ -1,0 +1,9 @@
+E:\Tecsup\VI\Sistemas empresariales\Sesion_01\Semana_01\Semana_01\bin\Debug\Semana_01.exe.config
+E:\Tecsup\VI\Sistemas empresariales\Sesion_01\Semana_01\Semana_01\bin\Debug\Semana_01.exe
+E:\Tecsup\VI\Sistemas empresariales\Sesion_01\Semana_01\Semana_01\bin\Debug\Semana_01.pdb
+E:\Tecsup\VI\Sistemas empresariales\Sesion_01\Semana_01\Semana_01\obj\Debug\Semana_01.csprojAssemblyReference.cache
+E:\Tecsup\VI\Sistemas empresariales\Sesion_01\Semana_01\Semana_01\obj\Debug\Semana_01.Form1.resources
+E:\Tecsup\VI\Sistemas empresariales\Sesion_01\Semana_01\Semana_01\obj\Debug\Semana_01.Properties.Resources.resources
+E:\Tecsup\VI\Sistemas empresariales\Sesion_01\Semana_01\Semana_01\obj\Debug\Semana_01.csproj.GenerateResource.cache
+E:\Tecsup\VI\Sistemas empresariales\Sesion_01\Semana_01\Semana_01\obj\Debug\Semana_01.exe
+E:\Tecsup\VI\Sistemas empresariales\Sesion_01\Semana_01\Semana_01\obj\Debug\Semana_01.pdb

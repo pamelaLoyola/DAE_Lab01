@@ -1,0 +1,9 @@
+E:\Tecsup\VI\Sistemas empresariales\Sesion_01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\Tecsup\VI\Sistemas empresariales\Sesion_01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmClientes.resources
+E:\Tecsup\VI\Sistemas empresariales\Sesion_01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Tecsup\VI\Sistemas empresariales\Sesion_01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Tecsup\VI\Sistemas empresariales\Sesion_01\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Tecsup\VI\Sistemas empresariales\Sesion_01\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Tecsup\VI\Sistemas empresariales\Sesion_01\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Tecsup\VI\Sistemas empresariales\Sesion_01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Tecsup\VI\Sistemas empresariales\Sesion_01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

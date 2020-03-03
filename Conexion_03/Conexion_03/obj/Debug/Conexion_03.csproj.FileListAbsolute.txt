@@ -1,0 +1,9 @@
+E:\Tecsup\VI\Sistemas empresariales\Sesion_01\Conexion_03\Conexion_03\bin\Debug\Conexion_03.exe.config
+E:\Tecsup\VI\Sistemas empresariales\Sesion_01\Conexion_03\Conexion_03\bin\Debug\Conexion_03.exe
+E:\Tecsup\VI\Sistemas empresariales\Sesion_01\Conexion_03\Conexion_03\bin\Debug\Conexion_03.pdb
+E:\Tecsup\VI\Sistemas empresariales\Sesion_01\Conexion_03\Conexion_03\obj\Debug\Conexion_03.csprojAssemblyReference.cache
+E:\Tecsup\VI\Sistemas empresariales\Sesion_01\Conexion_03\Conexion_03\obj\Debug\Conexion_03.Form1.resources
+E:\Tecsup\VI\Sistemas empresariales\Sesion_01\Conexion_03\Conexion_03\obj\Debug\Conexion_03.Properties.Resources.resources
+E:\Tecsup\VI\Sistemas empresariales\Sesion_01\Conexion_03\Conexion_03\obj\Debug\Conexion_03.csproj.GenerateResource.cache
+E:\Tecsup\VI\Sistemas empresariales\Sesion_01\Conexion_03\Conexion_03\obj\Debug\Conexion_03.exe
+E:\Tecsup\VI\Sistemas empresariales\Sesion_01\Conexion_03\Conexion_03\obj\Debug\Conexion_03.pdb
